@@ -1,0 +1,13 @@
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.deps.json
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.dll
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.pdb
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.csprojResolveAssemblyReference.cache
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.App.xaml.g.cs
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.FinParcour.xaml.g.cs
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.MainPage.xaml.g.cs
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.Parcours.xaml.g.cs
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.dll
+C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.pdb
