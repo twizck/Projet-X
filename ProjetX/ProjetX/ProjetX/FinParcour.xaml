@@ -4,9 +4,10 @@
              x:Class="ProjetX.FinParcour">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Félicitation, vous venez de réussir un parcour" HorizontalOptions="Center" />
+            <Label Text="Passez au niveau suivant !" HorizontalOptions="Center" />
+            <Label />
+            <Button Text="Passer au niveau suivant" BackgroundColor="LightGray" TextColor="Green" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

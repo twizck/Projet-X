@@ -1,0 +1,12 @@
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.csproj.CoreCompileInputs.cache
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.App.xaml.g.cs
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.FinParcour.xaml.g.cs
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.MainPage.xaml.g.cs
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.Parcours.xaml.g.cs
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.AssemblyInfoInputs.cache
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.AssemblyInfo.cs
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.dll
+L:\GitHub\ProjetX\ProjetX\ProjetX\obj\Debug\netstandard2.0\ProjetX.pdb
+L:\GitHub\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.deps.json
+L:\GitHub\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.dll
+L:\GitHub\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.pdb
