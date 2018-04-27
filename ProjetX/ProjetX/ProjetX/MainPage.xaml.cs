@@ -13,5 +13,9 @@ namespace ProjetX
 		{
 			InitializeComponent();
 		}
-	}
+        public void Parc1_clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Inscription());
+        }
+    }
 }
