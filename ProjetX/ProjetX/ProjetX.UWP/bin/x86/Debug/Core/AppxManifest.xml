@@ -36,7 +36,11 @@
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />
     <build:Item Name="VisualStudio" Version="15.0" />
+<<<<<<< HEAD
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Professional 2017" />
+=======
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2017" />
+>>>>>>> 29273584a5e337a93a8fdfe33b0873a4eb9ce4e8
     <build:Item Name="OperatingSystem" Version="10.0.16299.15 (WinBuild.160101.0800)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.27428.2027" />
     <build:Item Name="ProjectGUID" Value="{52D62F0C-9CF4-4076-88C5-D4FF536911D8}" />

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\rapha\OneDrive\Documents\GitHub\Projet-X\ProjetX\ProjetX\ProjetX.UWP\ProjetX.UWP.csproj;x86
+=======
+L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\ProjetX.UWP.csproj;x86
+>>>>>>> 29273584a5e337a93a8fdfe33b0873a4eb9ce4e8

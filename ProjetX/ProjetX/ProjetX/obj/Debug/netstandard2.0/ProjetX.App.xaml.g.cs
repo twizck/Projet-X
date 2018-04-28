@@ -11,8 +11,7 @@
 namespace ProjetX {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\App.xam" +
-        "l")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("L:\\GitHub\\ProjetX\\ProjetX\\ProjetX\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
