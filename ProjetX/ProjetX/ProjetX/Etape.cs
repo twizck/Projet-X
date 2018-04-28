@@ -13,5 +13,9 @@ namespace ProjetX
         {
 
         }
+        public string getWay()
+        {
+            return "https://www.google.com/maps/embed/v1/directions ? key = YOUR_API_KEY & origin ="+depart.name+"&"+ arriver.name +"= Telemark + Norway";
+        }
     }
 }
