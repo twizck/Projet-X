@@ -15,8 +15,16 @@ namespace ProjetX {
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Style bt_vert;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Style bt_red;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            bt_vert = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Style>(this, "bt_vert");
+            bt_red = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Style>(this, "bt_red");
         }
     }
 }
