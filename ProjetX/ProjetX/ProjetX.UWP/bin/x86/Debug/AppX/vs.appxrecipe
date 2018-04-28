@@ -31,13 +31,13 @@
     <AppXManifest Include="L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-27T23:44:22.913</Modified>
+      <Modified>2018-04-28T00:03:43.233</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\bin\x86\Debug\ProjetX.UWP.exe">
       <PackagePath>entrypoint\ProjetX.UWP.exe</PackagePath>
-      <Modified>2018-04-27T23:44:15.396</Modified>
+      <Modified>2018-04-28T00:03:39.417</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxime\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -713,7 +713,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="L:\GitHub\ProjetX\ProjetX\ProjetX\bin\Debug\netstandard2.0\ProjetX.dll">
       <PackagePath>ProjetX.dll</PackagePath>
-      <Modified>2018-04-27T23:43:52.998</Modified>
+      <Modified>2018-04-28T00:03:17.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -884,11 +884,11 @@
     <AppxPackagedFile Include="L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-27T23:44:20.928</Modified>
+      <Modified>2018-04-28T00:03:41.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="L:\GitHub\ProjetX\ProjetX\ProjetX.UWP\bin\x86\Debug\Core\ProjetX.UWP.exe">
       <PackagePath>ProjetX.UWP.exe</PackagePath>
-      <Modified>2018-04-27T23:44:22.898</Modified>
+      <Modified>2018-04-28T00:03:43.219</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

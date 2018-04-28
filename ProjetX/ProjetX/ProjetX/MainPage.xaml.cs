@@ -17,5 +17,9 @@ namespace ProjetX
         {
             Navigation.PushAsync(new Parcours());
         }
+        public void Parc2_clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new FinParcour());
+        }
     }
 }
