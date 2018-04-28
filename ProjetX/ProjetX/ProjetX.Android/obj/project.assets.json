@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v7.1": {
+    "MonoAndroid,Version=v8.0": {
       "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -295,7 +295,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Forms": "2.5.0.280555"
+          "Xamarin.Forms": "2.5.1.444934"
         },
         "compile": {
           "bin/placeholder/ProjetX.dll": {}
@@ -692,7 +692,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v7.1": [
+    "MonoAndroid,Version=v8.0": [
       "ProjetX >= 1.0.0",
       "Xamarin.Android.Support.Design >= 25.4.0.2",
       "Xamarin.Android.Support.v4 >= 25.4.0.2",
@@ -703,46 +703,46 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rapha\\.nuget\\packages\\": {},
+    "C:\\Users\\Maxime\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\ProjetX.Android.csproj",
+      "projectUniqueName": "L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\ProjetX.Android.csproj",
       "projectName": "ProjetX.Android",
-      "projectPath": "C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\ProjetX.Android.csproj",
-      "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\obj\\",
+      "projectPath": "L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\ProjetX.Android.csproj",
+      "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+      "outputPath": "L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\rapha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid71"
+        "monoandroid80"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid71": {
+        "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\ProjetX.csproj": {
-              "projectPath": "C:\\Users\\rapha\\OneDrive\\Documents\\GitHub\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\ProjetX.csproj"
+            "L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\ProjetX.csproj": {
+              "projectPath": "L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\ProjetX.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "monoandroid71": {
+      "monoandroid80": {
         "dependencies": {
           "Xamarin.Android.Support.Design": {
             "target": "Package",
@@ -771,5 +771,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Passage à une version antérieure du package détecté : Xamarin.Forms de 2.5.1.444934 à 2.5.0.280555. Référencez le package directement à partir du projet pour sélectionner une version différente. \r\n ProjetX.Android -> ProjetX -> Xamarin.Forms (>= 2.5.1.444934) \r\n ProjetX.Android -> Xamarin.Forms (>= 2.5.0.280555)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.0"
+      ]
+    }
+  ]
 }

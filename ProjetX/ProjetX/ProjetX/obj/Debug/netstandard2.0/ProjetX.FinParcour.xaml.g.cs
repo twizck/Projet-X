@@ -11,7 +11,7 @@
 namespace ProjetX {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("L:\\GitHub\\ProjetX\\ProjetX\\ProjetX\\FinParcour.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("L:\\Projet-X\\ProjetX\\ProjetX\\ProjetX\\FinParcour.xaml")]
     public partial class FinParcour : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
